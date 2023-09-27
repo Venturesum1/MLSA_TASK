@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Chitkara University Himachal Pradesh Demo Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a project done to demonstrate the development of a clone of Chitkara University Himachal Pradesh Website.",
+    url: "https://chitkarafrontpagemadebysoumya.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "DocStop",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Your All-in-One Healthcare Management Solution",
+    url: "https://github.com/Venturesum1/DocStop",
   },
   {
-    title: "My Resume Site",
+    title: "To-Do App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A user-friendly to-do list web app for efficient task management. Organize, prioritize, and simplify your daily tasks with ease..",
+    url: "https://to-do-app-gold-beta.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Quiz App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Create and share quizzes on various topics with Quizify, the open-source quiz app. Engage in fun learning experiences today! This is the link of quiz-app-venturesum1.vercel.app",
+    url: "https://quiz-app-venturesum1.vercel.app/",
   },
 ];
 
